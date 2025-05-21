@@ -3,8 +3,8 @@ template-file-path: bkp-wrkld-acct-roles.yaml
 parameters: 
     HashKeyElementName: table2
     HashKeyElementType: elementtype
-    ReadCapacityUnits: 4
-    WriteCapacityUnits: 4
+    ReadCapacityUnits: 5
+    WriteCapacityUnits: 5
 
 tags:
     cost-center: '123456'
