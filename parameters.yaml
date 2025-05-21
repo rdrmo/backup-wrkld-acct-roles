@@ -2,7 +2,7 @@ template-file-path: bkp-wrkld-acct-roles.yaml
 
 parameters: 
     HashKeyElementName: table2
-    HashKeyElementType: elementtype
+    HashKeyElementType: S
     ReadCapacityUnits: 5
     WriteCapacityUnits: 5
 
